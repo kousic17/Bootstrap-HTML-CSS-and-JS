@@ -10,3 +10,5 @@
     <p>Interactive with material design of Bootstrap. With material design added with this website and parallax backgrounds</p>
     
     
+<h2>Licence</h2>
+    <p>This project is licensed under the MIT License - see the <a href="https://github.com/kousic17/Bootstrap-HTML-CSS-and-JS/blob/master/LICENSE">LICENSE.md</a> for details</p>
