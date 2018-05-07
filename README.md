@@ -7,7 +7,7 @@
     
     
 <h2>Website using Bootstrap</h2>
-    <p>Interactive with material design of Bootstrap. MDBootstrap added with this website and parallax backgrounds</p>
+    <p>Interactive with material design of Bootstrap. MDBootstrap added with this website and parallax backgrounds make the most elegant design.</p>
     
     
 <h2>Licence</h2>
