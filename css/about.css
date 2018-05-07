@@ -1,0 +1,85 @@
+body {
+    height: 100%;
+    overflow: initial;
+    overflow-x: hidden;
+}
+
+img {
+    border: none;
+    background: transparent;
+}
+
+.content {
+    margin-top: 50px;
+    background: linear-gradient(to left, #00DBDE, #505CFD);
+    margin-bottom: 150px;
+}
+
+hr {
+    width: 150px;
+    height: 2px;
+    background-color: #2196F3;
+    border: 0;
+    margin: 40px auto;
+}
+
+.content p {
+    color: #fff;
+}
+
+.projects {
+    background: linear-gradient(#141E30, #243B55);
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+hr {
+    width: 150px;
+    height: 2px;
+    background-color: #2196F3;
+    border: 0;
+    margin: 40px auto;
+}
+
+.projects h2, h5 {
+    color: #000;
+}
+
+.projects p {
+    color: #fff;
+}
+
+#gallery {
+    background: linear-gradient(135deg, #6F42C1 0%, #4582EC 100%);
+    margin-top: 150px;
+}
+
+#gallery p {
+    color: #fff;
+}
+
+#gallery h5 {
+    color: #000;
+}
+
+.carousel-item img {
+    border-radius: 0vw;
+    margin-left: 1px;
+}
+
+.button a {
+    border-radius: 25px;
+}
+
+.button a:hover {
+    background-color: #222;
+    color: #fff !important;
+}
+
+.carousel-control-prev-icon {
+    background: none;
+}
+
+.carousel-control-next-icon {
+    background: none;
+}
